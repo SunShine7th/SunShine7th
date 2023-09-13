@@ -1,7 +1,13 @@
 <div id="header" align="center">
-  <h1>Hi there 👋 </h1>
-
+  <h1>Hi there 👋 I'm Svetlana</h1>
+  <h3>Front-end developer from Russia, Vrn-city</h3>
 </div>
+
+<div id="socials" align="center">
+  <a href="https://t.me/SunSHINE_7th"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="telegram"/></a>
+  <a href="https://vk.me/w-SunSHINE"><img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logocolor=white" alt="В Контакте"/></a> 
+</div>
+  
 <!--
 **SunShine7th/SunShine7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
