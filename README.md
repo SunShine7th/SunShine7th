@@ -25,9 +25,9 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunSHINE7th&theme=city_lights" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunSHINE7th&theme=city_lights" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunSHINE7th&theme=city_lights" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunShine7th&theme=city_lights" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunShine7th&theme=city_lights" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunShine7th&theme=city_lights" alt=""/>
 </div>
   
 <!--
